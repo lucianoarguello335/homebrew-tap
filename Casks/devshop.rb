@@ -1,6 +1,6 @@
 cask "devshop" do
-  version "1.0.0"
-  sha256 "1fad2442ee52fdd25709161bb605a7871cddc339722e6d54aff478bbdea2a0e6"
+  version "1.0.1"
+  sha256 "0b34f583a0aa8fcae2c2297dc397d406f5f7ab079d579240826af8a3757f44be"
 
   url "https://github.com/lucianoarguello335/devshop/releases/download/v#{version}/DevShop-#{version}.dmg"
   name "DevShop"
